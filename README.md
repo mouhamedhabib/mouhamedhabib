@@ -1,16 +1,17 @@
 # Mohamed Habib Chaieb
-Web Developer | React · Next.js · Python · IoT
+**Web Developer** | React · Next.js · Python · IoT  
 Building clean interfaces and automated systems that make digital life easier.
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaiebmohamedhabib1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chaieb-mohammed-habib/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-3wjb.vercel.app)
 
 ---
 
 👋 About Me
 
-Web developer with hands-on experience across front-end development, 
-Python automation, and IoT systems.
-Currently finishing a Bachelor's in Computer Science — two internships 
-delivered in production environments.
-Open to full-time positions and freelance projects.
+Versatile developer (PHP, Laravel, React, Next.js, Python) — with projects deployed in production.
+Autonomous and solution-oriented, I adapt quickly to any new technical environment.
 
 I specialize in:
 - Building responsive, performant web interfaces (React, Next.js)
@@ -44,13 +45,12 @@ Figma · Adobe Illustrator · Photoshop
 🏗️ Featured Projects
 
 🔹 Tunisia Jobs Tracker
-Automated ETL pipeline scraping 3 Tunisian job boards daily with live 
-analytics dashboard and CI/CD via GitHub Actions.
-→ github.com/mouhamedhabib/Tunisia-Jobs-Tracker · tn-jobs-tracker.streamlit.app
+Automated ETL pipeline scraping 3 Tunisian job boards daily with live analytics dashboard and CI/CD via GitHub Actions.
+→ [Repo](https://github.com/mouhamedhabib/Tunisia-Jobs-Tracker) · [Live](https://tn-jobs-tracker.streamlit.app)
 
 🔹 Imagimi
 Web app for image processing and resizing with user authentication.
-→ github.com/mouhamedhabib/imagimi · imagimifly.vercel.app
+→ [Repo](https://github.com/mouhamedhabib/imagimi) · [Live](https://imagimifly.vercel.app)
 
 ---
 
@@ -63,12 +63,4 @@ Web app for image processing and resizing with user authentication.
 ---
 
 🚀 Philosophy
-Technology should make the world simpler, more comfortable, 
-and more human.
-
----
-
-📬 Contact
-chaiebmohamedhabib1@gmail.com
-portfolio-3wjb.vercel.app
-linkedin.com/in/chaieb-mohammed-habib/
+Technology should make the world simpler, more comfortable, and more human.
