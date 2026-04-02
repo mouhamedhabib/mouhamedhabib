@@ -1,45 +1,36 @@
-# Hi, I'm Mohamed Habib 👋
+# Mohamed Habib Chaieb
+**Web Developer** · Python Automation · IoT
 
-🐍 Python Developer focused on **web scraping**, **data automation**, and **pipeline engineering**.
-
-I build tools that collect, clean, and visualize real-world data — from job boards to business leads.
-
----
-
-## 🛠️ What I Do
-
-- 🔍 **Web Scraping** — Extract structured data from any website using Python
-- 🧹 **Data Cleaning** — Normalize and process raw data with pandas
-- ⚙️ **Automation** — Schedule pipelines with GitHub Actions
-- 📊 **Dashboards** — Build interactive data apps with Streamlit
+Monastir, Tunisia · [Portfolio](https://portfolio-3wjb.vercel.app) · [LinkedIn](https://linkedin.com/in/chaieb-mohammed-habib/)
 
 ---
 
-## 🚀 Featured Project
-
-### 🇹🇳 [Tunisia Jobs Tracker](https://github.com/mouhamedhabib/Tunisia-Jobs-Tracker)
-> A fully automated Python pipeline that scrapes 900+ job listings daily from 3 Tunisian job boards, stores them in SQLite, and visualizes them in a live Streamlit dashboard.
-
-**Stack:** `Python` `BeautifulSoup4` `pandas` `SQLite` `Streamlit` `GitHub Actions`
-
-🔗 [Live Demo](https://tn-jobs-tracker.streamlit.app/)
+## About
+Full-stack web developer with hands-on experience in front-end development, 
+Python automation, and IoT systems. Currently finishing a Bachelor's in 
+Computer Science at Keyce Informatique — Collège de Paris.
+Two internships delivered in production environments. Open to full-time 
+positions and freelance projects.
 
 ---
 
-## 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-59666C?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+## Tech Stack
+**Frontend** · React.js · Next.js · TypeScript · JavaScript · shadcn/ui · Tailwind · Bootstrap  
+**Backend** · Laravel · FastAPI · Node.js · CodeIgniter  
+**Data** · Python · Pandas · SQLite · MySQL · PostgreSQL  
+**DevOps** · Git · GitHub Actions · Docker · Linux  
+**IoT** · Raspberry Pi · Python GPIO  
+**Design** · Figma · Adobe Illustrator · Photoshop  
 
 ---
 
-## 📫 Let's Work Together
+## Featured Projects
+| Project | Stack | Links |
+|---|---|---|
+| Tunisia Jobs Tracker | Python · Streamlit · SQLite · GitHub Actions | [Repo](https://github.com/mouhamedhabib/Tunisia-Jobs-Tracker) · [Live](https://tn-jobs-tracker.streamlit.app) |
+| Imagimi | Next.js · MongoDB · Clerk · Vercel | [Repo](https://github.com/mouhamedhabib/imagimi) · [Live](https://imagimifly.vercel.app) |
 
-I'm available for **freelance projects** — scraping, data pipelines, and automation.
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaieb-mohammed-habib/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mouhamedhabib)
+## Contact
+📧 chaiebmohamedhabib1@gmail.com
